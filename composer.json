@@ -1,0 +1,27 @@
+{
+    "name": "zhilevan/php",
+    "type": "library",
+    "description": "PHP client for Authy",
+    "keywords": ["api", "authentication", "two-factor"],
+    "homepage": "https://github.com/zhilevan/authy-php",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "~6.2.3" 
+    },
+    "require-dev": {
+        "EHER/PHPUnit": ">= 1.6"
+    },
+    "authors": [
+        {
+            "name": "Zhilevan",
+            "email": "zhilevan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Authy": "lib"
+        }
+    }
+}
+
