@@ -1,5 +1,5 @@
 {
-    "name": "zhilevan/authy-php",
+    "name": "yuseferi/authy-php",
     "type": "library",
     "description": "PHP client for Authy",
     "keywords": ["api", "authentication", "two-factor"],
